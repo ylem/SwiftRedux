@@ -1,3 +1,3 @@
 # SwiftRedux
 
-A description of this package.
+Unidirectional Data Flow in Swift
